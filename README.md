@@ -9,7 +9,11 @@
 ## Tarkov
 
 ### Tarkov Lighthouse Map
-[Escape From Tarkov - Lighthouse Map (to Scale)](https://crstalli.github.io/lighthouse.html)
+[Escape From Tarkov - Lighthouse Map (to Scale- zoom out!)](https://crstalli.github.io/lighthouse.html)
 
 ### Tarkov Lighthouse Code / Map Generation
 https://github.com/crstalli/crstalli.github.io
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3329492752981314"
+     crossorigin="anonymous"></script>
