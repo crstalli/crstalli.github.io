@@ -1,4 +1,5 @@
-# CZTL ![logo]n(assets/cztl.png)
+# CZTL 
+![logo](assets/cztl.png)
 
 ## About
 - [https://youtube.com/crstalli] 
