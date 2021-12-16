@@ -1,4 +1,4 @@
-# CZTL ![logo](https://pbs.twimg.com/profile_images/1443726696310530062/XG2H4IDC_400x400.jpg)
+# CZTL ![logo]n(assets/cztl.png)
 
 ## About
 - [https://youtube.com/crstalli] 
