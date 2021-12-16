@@ -7,7 +7,7 @@ const port = 8080
 
 
 app.get('/', (req, res) => {
-  fs.readFile('lighthouse.html', function (err, data) {
+  fs.readFile('index.html', function (err, data) {
     res.writeHead(200, {'Content-Type': 'text/html'});
     res.write(data);
     return res.end();
