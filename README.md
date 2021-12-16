@@ -14,6 +14,4 @@
 ### Tarkov Lighthouse Code / Map Generation
 https://github.com/crstalli/crstalli.github.io
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3329492752981314"
-     crossorigin="anonymous"></script>
+n
