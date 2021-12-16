@@ -2,4 +2,4 @@
 
 ## Lighthouse Map
 
-https://crstalli.github.io/crstalli.github.io/index.html
+[Escape From Tarkov - Lighthouse Map (to Scale)](https://crstalli.github.io/crstalli.github.io/lighthouse.html)
