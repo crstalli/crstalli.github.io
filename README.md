@@ -6,8 +6,10 @@
 - [https://youtube.com/crstalli] 
 - [https://twitter.com/cztl_crstalli]
 
-
-## Tarko
+## Tarkov
 
 ### Tarkov Lighthouse Map
-[Escape From Tarkov - Lighthouse Map (to Scale)] (https://crstalli.github.io/lighthouse.html)
+[Escape From Tarkov - Lighthouse Map (to Scale)](https://crstalli.github.io/lighthouse.html)
+
+### Tarkov Lighthouse Code / Map Generation
+https://github.com/crstalli/crstalli.github.io
