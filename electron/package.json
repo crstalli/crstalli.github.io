@@ -1,6 +1,6 @@
 {
-  "name": "lighthouse",
-  "productName": "lighthouse",
+  "name": "electron",
+  "productName": "electron",
   "description": "My Electron application description",
   "keywords": [],
   "main": "./main.js",

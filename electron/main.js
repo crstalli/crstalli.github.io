@@ -297,12 +297,12 @@ app.whenReady().then(() => {
 
   bindSingle('num5', 11);
 
-  //platfoprm 
-  bindTripple("Up", 15);
-  //Train
-  bindTripple("Right", 16);
-  //conex stack
-  bindTripple("Left", 17)
+  // //platfoprm 
+  // bindTripple("Up", 15);
+  // //Train
+  // bindTripple("Right", 16);
+  // //conex stack
+  // bindTripple("Left", 17)
 
 
   createWindow();
