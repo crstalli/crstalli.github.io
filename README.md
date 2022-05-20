@@ -11,6 +11,8 @@
 ### Tarkov Lighthouse Map
 [Escape From Tarkov - Lighthouse Map (to Scale- zoom out!)](https://crstalli.github.io/lighthouse.html)
 
+[Escape From Tarkov - Flea Fee Modeling](https://crstalli.github.io/tarkovFleaFees.html)
+
 ### Tarkov Lighthouse Code / Map Generation
 https://github.com/crstalli/crstalli.github.io
 
